@@ -1,0 +1,12 @@
+tensorflow
+opencv-python
+tqdm
+numpy
+scikit-learn
+matplotlib
+seaborn
+imbalanced-learn
+Pillow
+reportlab
+fpdf
+streamlit
